@@ -1,5 +1,5 @@
 # 3Drec  
-3Drec provides the implementation of two deep learning networks designed to retrieve ocean hydrographic profiles from combined satellite and in situ measurements, one based on a deep feed-forward network (**FFNN3D**) and one based on a stacked Long-Short Term Memory network (**LSTM3D**).  
+3Drec provides the implementation of two deep learning networks designed to reconstruct the 3D ocean structure from 2D satellite data: one based on a deep feed-forward network (**FFNN3D**) and one based on a stacked Long-Short Term Memory network (**LSTM3D**).  
 
 The two networks and the training/test data used for their development are fully described in the paper:  
 _Buongiorno Nardelli, A Deep Learning Network to Retrieve Ocean Hydrographic Profiles from Combined Satellite and In Situ Measurements, Remote Sensing, 2020_, under revision.  
