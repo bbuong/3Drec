@@ -10,7 +10,7 @@ _Buongiorno Nardelli, A Deep Learning Network to Retrieve Ocean Hydrographic Pro
 
 The code is written in Python 3
   
-These are required python packages (tested versions):  
+These are the python packages required (tested versions):  
 - keras     2.2.4
 - numpy     1.18.1
 - netcdf4   1.5.3
