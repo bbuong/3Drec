@@ -20,5 +20,5 @@ These are required python packages (tested versions):
 ## Training data
 The data used to develop the models can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4040843.svg)](https://doi.org/10.5281/zenodo.4040843)
 
-## Funding
+### Funding
 The development of this code was partly funded by the European Space Agency through the [World Ocean Current](https://www.worldoceancirculation.org) project (_ESA Contract No. 4000130730/20/I-NB_).
